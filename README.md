@@ -1,8 +1,8 @@
 ## Olá eu sou o Luis Gabriel !
 
 💻 - Windows <br>
-📚 - Análise e Desenvolvimento de Sistemas<br>
-📌 - Back-end<br>
+📚 - Análise e Desenvolvimento de Sistemas <br>
+📌 - Back-end <br>
 
   ##
  
