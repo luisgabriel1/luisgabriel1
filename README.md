@@ -21,11 +21,8 @@
   <img align="center" alt="Luis-html" height="30" width="40" src="https://skillicons.dev/icons?i=html"/>
    <img align="center" alt="Luis-css" height="30" width="40" src="https://skillicons.dev/icons?i=css"/>
     <img align="center" alt="Luis-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python"/>
-     <img align="center" alt="Luis-flask" height="30" width="40" src="https://skillicons.dev/icons?i=flask"/>
-      <img align="center" alt="Luis-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite"/>
-       <img align="center" alt="Luis-postman" height="30" width="40" src="https://skillicons.dev/icons?i=postman"/>
-        <img align="center" alt="Luis-java" height="30" width="40" src="https://skillicons.dev/icons?i=java"/>
-         <img align="center" alt="Luis-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"/>
+      <img align="center" alt="Luis-java" height="30" width="40" src="https://skillicons.dev/icons?i=java"/>
+        <img align="center" alt="Luis-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"/>
   
 </div>
 
