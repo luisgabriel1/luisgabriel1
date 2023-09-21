@@ -27,6 +27,7 @@
     <img align="center" alt="Luis-Python" height="30" width="40" src="https://skillicons.dev/icons?i=python"/>
       <img align="center" alt="Luis-java" height="30" width="40" src="https://skillicons.dev/icons?i=java"/>
         <img align="center" alt="Luis-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"/>
+        <img align="center" alt="Luis-vscode" height="30" width="40" src="https://skillicons.dev/icons?i=vscode"/>
   
 </div>
 
