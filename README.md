@@ -1,7 +1,7 @@
 ## Olá eu sou o Luis Gabriel !
 <div>
   <a href="https://github.com/luisgabriel1">
-  <img height="180cm" src="(https://github-readme-stats.vercel.app/api?luisgabriel1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+  <img height="180cm" src="(https://github-readme-stats.vercel.app/api?username=luisgabriel1)](https://github.com/luisgabriel1/github-readme-stats)">
 <div>
 
 <div style="display: inline_block"><br>
