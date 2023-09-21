@@ -1,5 +1,10 @@
 ## Olá eu sou o Luis Gabriel !
-  
+
+📍 - Brasil
+💻 - Windows 
+📚 - Análise e Desenvolvimento de Sistemas
+📌 - Back-end
+
   ##
  
 <div> 
